@@ -375,6 +375,7 @@ h1, h2, h3, h4, h5, h6, figure {
   zoom: 1;
   *display: inline;
 }
+
 .fh5co-social-icons li a {
   display: -moz-inline-stack;
   display: inline-block;
@@ -386,6 +387,21 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 .fh5co-social-icons li a i {
   font-size: 20px;
+}
+
+
+.fh5co-social-icons li button {
+  display: -moz-inline-stack;
+  display: inline-block;
+  zoom: 1;
+  *display: inline;
+  color: #FF9000;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+.fh5co-social-icons li button i {
+  font-size: 20px;
+  font-weight: bold;
 }
 
 #fh5co-about .fh5co-social-icons {
