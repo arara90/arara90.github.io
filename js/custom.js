@@ -15,3 +15,11 @@ closeBtn.addEventListener("click", closeModal);
 
 
 
+
+//filedownload
+const zalesiaDownload = document.getElementById("zalesia");
+const downloadZal = () => {
+    alert('heelo')
+    // window.location.assign('https://github.com/arara90/images/raw/master/Lumos/findingway.png?raw=true');
+}
+zalesiaDownload.addEventListener("click", downloadZal);
